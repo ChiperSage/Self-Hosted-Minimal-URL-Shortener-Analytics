@@ -25,8 +25,8 @@ Runs on **PHP + MySQL** (or MariaDB) and can be deployed on any cheap VPS/shared
 
 ---
 
-git clone https://github.com/ChiperSage/Self-Hosted-Minimal-URL-Shortener-Analytics.git
-cd Self-Hosted-Minimal-URL-Shortener-Analytics
+- git clone https://github.com/ChiperSage/Self-Hosted-Minimal-URL-Shortener-Analytics.git
+- cd Self-Hosted-Minimal-URL-Shortener-Analytics
 
-mysql -u root -p shortener < sql/schema.sql
+- mysql -u root -p shortener < sql/schema.sql
 
