@@ -21,13 +21,7 @@ Runs on **PHP + MySQL** (or MariaDB) and can be deployed on any cheap VPS/shared
 - [x] MVP: Shorten & redirect links  
 - [x] Click counter  
 - [x] Basic analytics (IP, referrer, UA)  
-- [x] Admin dashboard  
-- [ ] User authentication (login/register)  
-- [ ] Custom short aliases (e.g., `/s/masbro`)  
-- [ ] Expiry date & password-protected links  
-- [ ] GeoIP + device breakdown  
-- [ ] Graphs (daily/weekly clicks using Chart.js)  
-- [ ] Docker container for quick deployment  
+- [x] Admin dashboard 
 
 ---
 
